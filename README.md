@@ -32,9 +32,3 @@
 ###
 
 <img align="right" height="149" src="https://media.tenor.com/NAAwxiNoJg0AAAAi/kuromi-sanrio.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/EmmanuelJmz/EmmanuelJmz/output/snake.svg" alt="Snake animation" />
-
-###
